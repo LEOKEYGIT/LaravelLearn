@@ -22,21 +22,21 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="name">
+                        <label for="email">
                             郵箱：
                         </label>
                         <input type="text" name="email" class="form-control" value="{{ old('email') }}">
                     </div>
 
                     <div class="form-group">
-                        <label for="name">
+                        <label for="password">
                             密碼：
                         </label>
                         <input type="password" name="password" class="form-control" value="{{ old('password') }}">
                     </div>
 
                     <div class="form-group">
-                        <label for="name">
+                        <label for="password_confirmation">
                             確認密碼：
                         </label>
                         <input type="password" name="password_confirmation" class="form-control" value="{{ old('password_confirmation') }}">
