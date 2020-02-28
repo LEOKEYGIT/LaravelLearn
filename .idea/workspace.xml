@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="201a3683-da36-4ae9-b1c0-1a2afcaabff9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/LaravelLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LaravelLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/users/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +114,8 @@
       <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
       <path value="$PROJECT_DIR$/vendor/sebastian/version" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/laravel-lang" />
+      <path value="$PROJECT_DIR$/vendor/caouecs/laravel-lang" />
     </include_path>
   </component>
   <component name="ProjectId" id="1YNUFGehFuK4hm1WPchuXJkRn5m" />
@@ -153,14 +161,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="495" key="NewPhpFileDialog" timestamp="1582880413556">
+    <state x="449" y="495" key="NewPhpFileDialog" timestamp="1582881901978">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="449" y="495" key="NewPhpFileDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1582880413556" />
+    <state x="449" y="495" key="NewPhpFileDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1582881901978" />
     <state x="313" y="396" key="com.intellij.ide.util.TipDialog" timestamp="1582862728476">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="313" y="396" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1582862728476" />
+    <state x="310" y="171" width="647" height="801" key="find.popup" timestamp="1582887779762">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="310" y="171" width="647" height="801" key="find.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1582887779762" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
